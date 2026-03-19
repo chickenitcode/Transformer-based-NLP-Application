@@ -1,4 +1,4 @@
-# BÁO CÁO DỰ ÁN: PHÂN LOẠI VĂN BẢN SỬ DỤNG TRANSFORMER
+# PHÂN LOẠI VĂN BẢN SỬ DỤNG TRANSFORMER
 
 **Sinh viên thực hiện:** Mai Tân Giáp  
 **Mã số sinh viên:** 22127094  
