@@ -1,0 +1,11 @@
+{
+  "dataset_name": "AG News Sample",
+  "classes": [
+    "World",
+    "Sports",
+    "Business",
+    "Sci/Tech"
+  ],
+  "total_samples": 12,
+  "description": "Sample texts for testing the text classification model"
+}
